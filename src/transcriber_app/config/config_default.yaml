@@ -1,0 +1,15 @@
+model:
+  name: medium
+  language: null
+  min_speaker: null
+  max_speaker: null
+  batch_size: 16
+  temperatures: 0.3
+  initial_promp: null
+  compute_type: float32
+
+subtitles:
+  max_char: 42
+
+output:
+  folder: null

@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# project files and directory
+Data/
+output/
+tests/
+.DS_Store
+*.pyc
+.env
+logs/
+*.wav
+*.json
+*.srt
+*.txt
